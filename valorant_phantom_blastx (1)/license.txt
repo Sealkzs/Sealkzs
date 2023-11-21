@@ -1,0 +1,11 @@
+Model Information:
+* title:	Valorant Phantom Blastx
+* source:	https://sketchfab.com/3d-models/valorant-phantom-blastx-e3135ecb9ba34c478e28a0fac9053d50
+* author:	Huseyin Dogan (https://sketchfab.com/huseyin.dogan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Valorant Phantom Blastx" (https://sketchfab.com/3d-models/valorant-phantom-blastx-e3135ecb9ba34c478e28a0fac9053d50) by Huseyin Dogan (https://sketchfab.com/huseyin.dogan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
